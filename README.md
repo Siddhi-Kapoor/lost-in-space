@@ -93,7 +93,7 @@ AI tools assisted with code and text development. No AI-generated images or vide
 
 ## Team
 
-- Rishika Sharma (Lead)
+- Rishika Sharma
 - Krrish Raj Kannojia
 - Siddhi Kapoor
 - Pranav Jaiswal
